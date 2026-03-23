@@ -3,7 +3,7 @@ Personal portfolio webpage showcasing profile, skills, projects,GitHub and a con
 
 # Setup Instructions
 - Clone the repository:
-git clone https://github.com/Manar2232/assignment-1.git.
+git clone https://github.com/Manar2232/assigment-2.gitز
 - Open index.html in a browser.
 - Ensure style.css, script.js, and the images/ folder are in the same directory.
 
