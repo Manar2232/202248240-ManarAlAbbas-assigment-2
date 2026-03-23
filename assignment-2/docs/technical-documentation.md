@@ -1,14 +1,14 @@
-1. Overview
+# Overview
 Personal portfolio webpage for Manar Al Abbas displaying profile, skills, projects, GitHub API, and contact form. Built with HTML, CSS, and JavaScript.
 
-2. Technologies
+# Technologies
 - HTML– Structure.
 - CSS – Styling and layout.
 - JavaScript – Dynamic greeting.
 - Google Fonts – Roboto, Public Sans.
 
-3. File structure
-assignment-1/
+# File structure
+assignment-2/
 ├── README.md
 ├── index.html
 ├── css/
@@ -22,7 +22,7 @@ assignment-1/
 │   └── technical-documentation.md
 └── .gitignore
 
-4. Sections
+# Sections
 - Header: Navbar, profile box, dynamic greeting (#greeting-text).
 - About (#about): Paragraph with academic background.
 - Skills (#skills): Grid of skill cards with images and tags, hover effects.
@@ -30,7 +30,7 @@ assignment-1/
 - GitHub (#github): Integration with gitHub API; keeps project content up-to-date automatically, buttons to navigate to gitHub website.
 - Contact (#contact): Form with name, email, message, and submit button.
 
-5. CSS Highlights
+# CSS Highlights
 - Theme variables (:root): Colors & fonts for consistency.
 - Layout: Flexbox and Grid for responsive sections (skills, projects).
 - Cards: Hover effects (scale, shadow) for interaction feedback.
@@ -38,21 +38,21 @@ assignment-1/
 - Forms: Styled inputs, textareas, and buttons with focus & hover effects.
 - GitHub Button: Custom-styled button that redirects users to GitHub profile.
 
-6. JavaScript
+# JavaScript
 - How it works: 
     - Displays morning, afternoon, or evening greeting based on the current hour.
     - Import GitHub account information based on a provided username and display it in the profile and repositories sections.
     - Provide continuous user feedback during data loading and when data fails to fetch.
     - Provide buttons to navigate to the GitHub profile and individual repository links.   
 
-7. Features
+# Features
 - Smooth scrolling.
 - Interactive skill/project cards.
 - Responsive layout.
 - Styled contact form.
 - Real-time user feedback.
  
- 8. User Experience
+# User Experience
  The user can navigate throw sections using both scrolling and navigatign bar in the first section.
 ## Home Section
 - Displays a greeting message based on the time of day.
